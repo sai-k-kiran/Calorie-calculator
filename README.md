@@ -1,3 +1,9 @@
+# Calorie Calculator
+
+Measure your daily calorific needs based on your weight, height and other stats.
+
+View the app live here [Calorie Calculator](https://calc-calorie.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
